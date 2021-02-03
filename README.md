@@ -1,16 +1,21 @@
-# brew_crew
+## brew_crew
 
-A new Flutter project.
+Flutter and firebase application. You need to register. Then you can change and save different type coffees.
 
-## Getting Started
+Flutter ve firebase uygulaması. Kayıt olmanız gerekiyor. Daha sonra farklı türdeki kafeleri değiştirebilir ve kaydedebilirsiniz.
 
-This project is a starting point for a Flutter application.
+<p align="center">
+  <img src="doc/test1.JPG">
+</p>
 
-A few resources to get you started if this is your first Flutter project:
+You can register and sign in from that screen. Google keeps your password and i think it should be safe.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Bu ekrandan kayıt olabilir ve oturum açabilirsiniz. Google, şifrenizi saklar ve güvenli olması gerektiğini düşünüyorum.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p align="center">
+  <img src="doc/test2.JPG">
+</p>
+
+You can change your coffee setting from clicking setting button.
+
+Kahve ayarınızı ayar düğmesine tıklayarak değiştirebilirsiniz.
